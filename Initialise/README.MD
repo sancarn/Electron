@@ -20,3 +20,11 @@ chmod u+x <path of your command file>.command
 ```
 
 From now on you should be able to copy and paste the file wherever you wish to use it.
+
+## P.S.
+
+I've also attached a `Start.app` however this doesn't seem to be working for some reason. I created it using Platypus:
+
+http://sveinbjorn.org/platypus
+
+Perhaps someone more used to Automation on Mac could make a better version...
